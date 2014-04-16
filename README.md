@@ -1,4 +1,4 @@
-ruby-lutions
+**ruby-lutions**
 ============
 
 Ruby solutions to Java programming challenges
@@ -9,7 +9,7 @@ Java programming challenges.
 Hopefully, these will serve as examples of how to approach 
 problems similar to these. Remember one of Ruby's mantras is:
 
-TIMTOWDI
+**TIMTOWDI**
 
 These are ther solutions that I came up with. I know that 
 there are many other ways, some more elegant than others, 
@@ -32,6 +32,36 @@ and submit your solutions.
 * Pirates & Gold II        - ps2.rb
 * Sum of Squares           - square_sum.rb
 * Tip Calculator           - tip.rb
+
+Additional problem solutions are here:
+
+* array1.rb                - Arrays
+* array2.rb                - Arrays
+* car2.rb                  - Classes
+* cars.rb                  - Classes
+* case1.rb                 - Control Structures
+* cond.rb                  - Control Structures
+* mathm.rb                 - Modules 
+* math.rb                  - Control Structures
+* name.rb                  - Strings
+* string1.rb               - Strings
+* strings.rb               - Strings
+* triple.rb                - Functions
+* true.rb                  - Basics
+* yield.rb                 - Functions
+ 
+And more are here:
+
+* yes or no?               - basics/strings/yorn.rb
+* Yes or No!               - basics/strings/yorn2.rb
+* No E Allowed             - basics/strings/noez.rb
+* Repetition               - basics/strings/rep.rb
+* PigLatin I               - basics/strings/pl1.rb
+* Pig Latin II             - basics/strings/pl2.rb
+* Pig Latin III            - basics/strings/pl3.rb
+* Pig Latin Finale         - basics/strings/pl4.rb
+* Markdown Word Converter  - basics/strings/md.rb
+ 
 
 Note that each of my solutions contains a line loading the 
 'pry' gem. I use pry all of the time and recommend that you 
@@ -65,4 +95,4 @@ Direct questions, comments, criticism, grog, etc... to Capt. Downer:
 
 c@ptd0wner at gm@il d0t c0m
 
-(email disguised to protect the guilty. ARGH!@!@!)
+(email disguised to protect the guilty. **ARGH!@!@!**)
