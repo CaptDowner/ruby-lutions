@@ -16,22 +16,22 @@ there are many other ways, some more elegant than others,
 to solve these challenges. Feel free to fork this project 
 and submit your solutions.
 
-*Blackjack I              - bj1.rb 
-*Blackjack II             - bj2.rb
-*Colatz Conjecture        - colatz.rb
-*Count Change I           - change1.rb
-*Count Change II          - change2.rb
-*Dice                     - dice.rb
-*FizzBangBuzz I           - fizzbuzz.rb
-*FizzBangBuzz II          - fizzbuzzer.rb
-*Least Common Multiplier  - lcm.rb
-*No Sevens                - no_sevens.rb
-*Numbers to Words         - nums_to_words.rb
-*Permutation Count        - permute.rb
-*Pirates & Gold I         - ps1.rb
-*Pirates & Gold II        - ps2.rb
-*Sum of Squares           - square_sum.rb
-*Tip Calculator           - tip.rb
+* Blackjack I              - bj1.rb 
+* Blackjack II             - bj2.rb
+* Colatz Conjecture        - colatz.rb
+* Count Change I           - change1.rb
+* Count Change II          - change2.rb
+* Dice                     - dice.rb
+* FizzBangBuzz I           - fizzbuzz.rb
+* FizzBangBuzz II          - fizzbuzzer.rb
+* Least Common Multiplier  - lcm.rb
+* No Sevens                - no_sevens.rb
+* Numbers to Words         - nums_to_words.rb
+* Permutation Count        - permute.rb
+* Pirates & Gold I         - ps1.rb
+* Pirates & Gold II        - ps2.rb
+* Sum of Squares           - square_sum.rb
+* Tip Calculator           - tip.rb
 
 
 Please also check out my open source site dedicated 
