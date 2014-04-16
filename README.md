@@ -33,13 +33,35 @@ and submit your solutions.
 * Sum of Squares           - square_sum.rb
 * Tip Calculator           - tip.rb
 
+Note that each of my solutions contains a line loading the 
+'pry' gem. I use pry all of the time and recommend that you 
+do the same. I have found it to be one of the best debugging 
+tools available for Ruby and I recommend that if you don't 
+already use it, you get it today. 
+
+Download it using the following command:
+
+gem install pry
+
+Once it is installed and you've added or enabled:
+
+require 'pry'
+
+in your source code, you can then add a line containing 
+only the text:
+
+binding.pry
+
+This will cause execution to stop at the binding.pry statement
+and open the pry debugger so you can see exactly what's 
+happening inside of your source code.
 
 Please also check out my open source site dedicated 
 to Ruby Talk Tips at:
 
 <a href='http://RubyTalkTips.com'>http://RubyTalkTips.com</a>
 
-Direct questions, comments, criticism, etc... to Capt. Downer:
+Direct questions, comments, criticism, grog, etc... to Capt. Downer:
 
 c@ptd0wner at gm@il d0t c0m
 
